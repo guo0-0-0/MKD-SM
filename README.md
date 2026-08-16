@@ -37,6 +37,7 @@ After training, you can run the following command to predict the system matrix:
 ## Reference
 If you take advantage of this paper in your research, please cite the following in your manuscript:
 
+```bibtex
 - @ARTICLE{11267072,
   author={Guo, Pengyue and Wei, Zechen and Zeng, Yu and Wang, Bingye and Liao, Yidong and Hu, Jiawei and Hou, Lingwen and Liu, Kai and He, Ning and Wang, Qibin and Li, Lei and Hui, Hui and Wang, Yihan and Zhu, Shouping and Tian, Jie},
   journal={IEEE Transactions on Computational Imaging}, 
@@ -46,3 +47,4 @@ If you take advantage of this paper in your research, please cite the following 
   number={},
   pages={25-36},
   doi={10.1109/TCI.2025.3636749}}
+```
