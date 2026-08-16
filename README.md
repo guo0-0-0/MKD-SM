@@ -14,9 +14,11 @@ Please download the Calibration Measurements 7 and 10, and put them in the OpenM
 
 Make sure the following file structure:
 
---OpenMPI_SM
-----OpenData_7.mdf
-----OpenData_10.mdf
+```text
+OpenMPI_SM/
+├── OpenData_7.mdf
+└── OpenData_10.mdf
+```
 
 Then you can run the following command to preprocess the data:
 
